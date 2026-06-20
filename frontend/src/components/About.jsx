@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { motionDefaults } from "../utils/framerVariants/motionDefaults";
 import { top, right, left, container } from "../utils/framerVariants/Variants";
-import images from "../assets/Images";
+ import images from "../assets/Images";
 
 const About = () => {
     return (
