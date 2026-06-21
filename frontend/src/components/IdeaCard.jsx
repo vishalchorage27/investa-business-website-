@@ -60,9 +60,7 @@ const IdeaCard = ({ data, user, onDelete }) => {
                     {idea.industry}
                 </span>
 
-                <p className="text-[10px] sm:text-xs text-[#B0B0B0] text-right">
-                    <span className="text-white font-medium">{user?.name}</span>
-                </p>
+
             </div>
 
             {/* Title */}
